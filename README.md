@@ -1,4 +1,6 @@
-# .NET Core Buildpack with Heroku MySQL Support 
+# .NET Core 1.x Buildpack with Heroku MySQL Support 
+
+## This buildpack is for older .Net Core 1.x and is no longer supported. Buildpack for new version of .Net Core is available at https://github.com/heroku-softtrends/dotnetcore2.mysql.buildpack
 
 This Buidpack can be used to compile and deploy .Net Core application, ASP.Net Application, ASP.Net MVC Application to Heroku. <br><br>
 This Buildpack can build and deploy any such application that does not have any particular database dependency. In order to deploy applications with Microsoft SQL Server, My SQL, or Postgress SQL separate buildpacks are available and the links for those are provided below. <br><br>
